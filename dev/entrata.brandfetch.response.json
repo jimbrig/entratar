@@ -1,0 +1,162 @@
+{
+  "id": "idHPuwxRo9",
+  "name": "Entrata",
+  "domain": "entrata.com",
+  "claimed": false,
+  "description": "Entrata is the operating system for Autonomous Property Management™ — unifying leasing, payments, renewals, and resident experience, with AI embedded across workflows to execute operations within your guardrails and drive portfolio performance.",
+  "longDescription": "Entrata is a leading operating system for real estate property management companies. They offer an all-in-one operating system designed to improve processes, operations, and overall portfolio management. With Entrata, property managers can streamline their tasks, saving time and increasing productivity. Their comprehensive range of products and services includes property management, resident payment solutions, resident portals, student revenue management, access control, message center, facility management, and more. They also provide marketing and leasing solutions, digital marketing services, reputation management, insurance services, and verification of income. Entrata's operating system offers a centralized dashboard that allows property managers to monitor their entire portfolio effortlessly. It integrates accounting, resident management, purchasing, and facilities management, enabling users to automate tasks and enhance efficiency. With Entrata, property managers can experience the new standard in property management, where time is saved, and properties are managed with flexibility. Join thousands of other operators and schedule a demo with Entrata today.",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/entratasoftware"
+    },
+    {
+      "name": "instagram",
+      "url": "https://instagram.com/entratasoftware"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://linkedin.com/company/entratasoftware"
+    },
+    {
+      "name": "facebook",
+      "url": "https://facebook.com/EntrataSoftware"
+    },
+    {
+      "name": "youtube",
+      "url": "https://youtube.com/entrata"
+    }
+  ],
+  "logos": [
+    {
+      "theme": "dark",
+      "formats": [
+        {
+          "src": "https://asset.brandfetch.io/idHPuwxRo9/idmms97MK9.png",
+          "background": {},
+          "format": "png",
+          "height": 800,
+          "width": 801,
+          "size": 10169
+        }
+      ],
+      "tags": [],
+      "type": "icon"
+    },
+    {
+      "theme": "dark",
+      "formats": [
+        {
+          "src": "https://asset.brandfetch.io/idHPuwxRo9/idKgQh5NHY.png",
+          "background": "transparent",
+          "format": "png",
+          "height": 155,
+          "width": 820,
+          "size": 10289
+        },
+        {
+          "src": "https://asset.brandfetch.io/idHPuwxRo9/idIIjGoJtu.svg",
+          "background": "transparent",
+          "format": "svg",
+          "height": 20,
+          "width": 106,
+          "size": 3776
+        }
+      ],
+      "tags": [],
+      "type": "logo"
+    }
+  ],
+  "colors": [
+    {
+      "hex": "#9f2f1c",
+      "type": "accent",
+      "brightness": 69
+    },
+    {
+      "hex": "#000000",
+      "type": "dark",
+      "brightness": 0
+    },
+    {
+      "hex": "#f1e9df",
+      "type": "light",
+      "brightness": 234
+    }
+  ],
+  "fonts": [
+    {
+      "name": "var(--_theme---font--font-heading)",
+      "type": "title",
+      "origin": "custom",
+      "originId": {},
+      "weights": []
+    },
+    {
+      "name": "Arial",
+      "type": "body",
+      "origin": "custom",
+      "originId": {},
+      "weights": []
+    }
+  ],
+  "images": [
+    {
+      "formats": [
+        {
+          "src": "https://asset.brandfetch.io/idHPuwxRo9/idwgNd8R9Q.jpeg",
+          "background": {},
+          "format": "jpeg",
+          "height": 191,
+          "width": 1128,
+          "size": 18271
+        }
+      ],
+      "tags": [],
+      "type": "banner"
+    }
+  ],
+  "qualityScore": 0.7667,
+  "company": {
+    "employees": 1001,
+    "financialIdentifiers": {
+      "isin": [],
+      "ticker": []
+    },
+    "foundedYear": {},
+    "industries": [
+      {
+        "score": 1,
+        "id": "37",
+        "name": "Programming and Developer Software",
+        "emoji": "🖥",
+        "parent": {
+          "emoji": "🖥",
+          "id": "28",
+          "name": "Computers Electronics and Technology",
+          "slug": "computers-electronics-and-technology"
+        },
+        "slug": "programming-and-developer-software"
+      },
+      {
+        "id": "28",
+        "score": 1,
+        "name": "Computers Electronics and Technology",
+        "emoji": "🖥",
+        "parent": {},
+        "slug": "computers-electronics-and-technology"
+      }
+    ],
+    "kind": "PRIVATELY_HELD",
+    "location": {
+      "city": "Lehi",
+      "country": "United States",
+      "countryCode": "US",
+      "region": "Americas",
+      "state": "Utah",
+      "subregion": "Northern America"
+    }
+  },
+  "isNsfw": false,
+  "urn": "urn:brandfetch:brand:idHPuwxRo9"
+}
