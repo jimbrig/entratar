@@ -53,6 +53,9 @@ Set:
 }
 \seealso{
 \code{\link[config:get]{config::get()}}
+
+Utility Functions:
+\code{\link[=entrata_abort_check]{entrata_abort_check()}}
 }
 \concept{config}
 \concept{utils}

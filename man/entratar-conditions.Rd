@@ -106,5 +106,9 @@ msg <- rlang::catch_cnd(entrata_inform("Message"))
 class(msg)
 }
 }
+\seealso{
+Conditions:
+\code{\link[=entrata_abort_check]{entrata_abort_check()}}
+}
 \concept{conditions}
 \concept{package}
