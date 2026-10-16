@@ -6,23 +6,28 @@ Authors@R:
            comment = c(ORCID = "0000-0002-7489-8787"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
+URL: https://github.com/jimbrig/entratar,
+    http://docs.jimbrig.com/entratar/
+BugReports: https://github.com/jimbrig/entratar/issues
 Imports: 
     cli,
     crayon,
+    desc,
     rlang (>= 1.1.0),
-    utils
+    tools,
+    utils,
+    yyjsonr
 Suggests: 
     httptest2,
     httr2,
     knitr,
     rmarkdown,
     testthat (>= 3.0.0)
+VignetteBuilder: 
+    knitr
+Config/roxygen2/markdown: TRUE
 Config/roxygen2/version: 8.1.1
 Config/testthat/edition: 3
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/jimbrig/entratar, http://docs.jimbrig.com/entratar/
-BugReports: https://github.com/jimbrig/entratar/issues
-Config/roxygen2/markdown: TRUE
-VignetteBuilder: knitr

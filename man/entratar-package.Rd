@@ -6,7 +6,18 @@
 \alias{entratar-package}
 \title{entratar: What the Package Does (One Line, Title Case)}
 \description{
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
 What the package does (one paragraph).
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/jimbrig/entratar}
+  \item \url{http://docs.jimbrig.com/entratar/}
+  \item Report bugs at \url{https://github.com/jimbrig/entratar/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Jimmy Briggs \email{jimmy.briggs@jimbrig.com} (\href{https://orcid.org/0000-0002-7489-8787}{ORCID})
