@@ -4,3 +4,8 @@
 .httr-oauth
 .DS_Store
 .quarto
+.Renviron
+.env
+.envrc
+inst/doc
+docs

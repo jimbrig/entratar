@@ -14,11 +14,15 @@ Imports:
 Suggests: 
     httptest2,
     httr2,
+    knitr,
+    rmarkdown,
     testthat (>= 3.0.0)
 Config/roxygen2/version: 8.1.1
 Config/testthat/edition: 3
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/jimbrig/entratar
+URL: https://github.com/jimbrig/entratar, http://docs.jimbrig.com/entratar/
 BugReports: https://github.com/jimbrig/entratar/issues
+Config/roxygen2/markdown: TRUE
+VignetteBuilder: knitr
