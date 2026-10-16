@@ -6,7 +6,19 @@ Authors@R:
            comment = c(ORCID = "0000-0002-7489-8787"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
-Config/roxygen2/version: 8.1.0
+Imports: 
+    cli,
+    crayon,
+    rlang (>= 1.1.0),
+    utils
+Suggests: 
+    httptest2,
+    httr2,
+    testthat (>= 3.0.0)
+Config/roxygen2/version: 8.1.1
+Config/testthat/edition: 3
 Encoding: UTF-8
 Language: en-US
 Roxygen: list(markdown = TRUE)
+URL: https://github.com/jimbrig/entratar
+BugReports: https://github.com/jimbrig/entratar/issues
