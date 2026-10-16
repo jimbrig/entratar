@@ -1,0 +1,9 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  entratar: entratar.html
+last_built: 2026-10-16T21:00Z
+urls:
+  reference: http://docs.jimbrig.com/entratar/reference
+  article: http://docs.jimbrig.com/entratar/articles
